@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GinkT/npm-package/issues"
   },
-  "homepage": "https://github.com/GinkT/npm-package#readme"
+  "homepage": "https://github.com/GinkT/npm-package#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
